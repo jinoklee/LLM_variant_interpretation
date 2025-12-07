@@ -1,4 +1,6 @@
+**prompt: ACMG/AMP 기반 변이 해석 지시 유무에 따른 결과**
 
+---
 
 **PPT 코드 및 결과**   
 - 위치: PPT/
@@ -8,8 +10,6 @@
 ---
 
 **VEP annotation 파일: variants.annot.txt** 
-
-**prompt 내용 : ACMG/AMP 기반 변이 해석 지시 유무에 따른 결과**
 
 1. 단순 해석요구 :
    - 위치: results/
