@@ -1,5 +1,3 @@
-# LLM_variant_interpretaion
-
 
 
 **prompt 내용 : ACMG/AMP 기반 변이 해석 지시 유무에 따른 결과**
